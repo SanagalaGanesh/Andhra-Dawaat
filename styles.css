@@ -95,7 +95,7 @@ body {
   font-weight: 900;
   color: whitesmoke;
   font-size: 50px;
-  top: 900px;
+  top: 1100px;
   z-index: 1;
 }
 .restraunt .n2 {
@@ -112,7 +112,7 @@ body {
   font-optical-sizing: auto;
   font-weight: 900;
   color: whitesmoke;
-  top:1100px;
+  top:1250px;
   left:50px;
 }
 .one p{
@@ -131,7 +131,7 @@ body {
   font-optical-sizing: auto;
   font-weight: 900;
   color:whitesmoke;
-  top:1100px;
+  top:1250px;
   left:560px;
 }
 .two p{
@@ -150,7 +150,7 @@ body {
   font-optical-sizing: auto;
   font-weight: 900;
   color: whitesmoke;
-  top:1100px;
+  top:1250px;
   left:960px;
 }
 .three p{
@@ -206,7 +206,7 @@ footer > span{
   text-align: center;
   font-size: 50px;
   letter-spacing: 0.5em;
-  top: 1600px;
+  top: 1850px;
   z-index: 2;
 }
 .bar h2{
@@ -219,12 +219,12 @@ footer > span{
   color: whitesmoke;
   text-align: center;
   font-size: 50px;
-  top: 1700px;
+  top: 1980px;
   z-index: 2;
 }
 .bar p{
   position: absolute;
-  left:350px;
+  left:380px;
   color: #ae9a64;
   font-family: "Cormorant Garamond", sans-serif;
   font-optical-sizing: auto;
@@ -233,7 +233,7 @@ footer > span{
   color: whitesmoke;
   text-align: center;
   font-size: 30px;
-  top: 1850px;
+  top: 2150px;
   z-index: 3;
   width: 750px;
 }
